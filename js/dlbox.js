@@ -92,7 +92,7 @@
 	</div>\
 	<div class="mce-abs-end"></div>\
 	<div class="row inpadding" data-id="0" >\
-		<a href="javascript:;" class="del mce-ico mce-i-remove" title="删除此条目" ></a>\
+		<a href="javascript:;" class="del mce-ico mce-i-remove" title="删除此项" ></a>\
 		<div class="col-lg-2">\
 				<input type="text" class="mce-textbox  mce-last dl_name" placeholder="名称">\
 			</div>\
