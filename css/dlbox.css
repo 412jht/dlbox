@@ -1,15 +1,11 @@
 #facebox .content{width:600px; background:none repeat scroll 0 0 #E0E2E4; color:#333;}
 #facebox .popup{border:6px solid #ff7d00;}
-.dlbtn-bak{background: none repeat scroll 0 0 #1BA1E2; border: 0 none; border-radius: 2px; color: #FFFFFF; cursor: pointer; font-family: "Open Sans","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Arial,Verdana,Tahoma,sans-serif; font-size: 14px; margin: -4px 20px 0 0; padding: 3px 30px;text-transform:none;text-decoration:none;}
 .dllink a:link{color: #ffffff;}
 .dllink a:visited{color: #ffffff;}
 .dllink a:hover{color: #ffffff;}
 .dllink a:active{color: #ffffff;}
 
-.dlbtn-bak{background: none repeat scroll 0 0 #1BA1E2; border: 0 none; border-radius: 2px; color: #FFFFFF !important; cursor: pointer; font-family: "Open Sans","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Arial,Verdana,Tahoma,sans-serif; font-size: 14px; margin: -4px 20px 0 0; padding: 3px 30px;}
 .yanshibtn{background: none repeat scroll 0 0 #d33431; border: 0 none; border-radius: 2px; color: #FFFFFF!important; cursor: pointer; font-family: "Open Sans","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Arial,Verdana,Tahoma,sans-serif; font-size: 14px; margin: -4px 20px 0 0; padding: 3px 30px;text-transform:none;text-decoration:none;}
-.dlbtn-bak:hover,.yanshibtn:hover{background: none repeat scroll 0 0 #9B59B6; border: 0 none; border-radius: 2px; color: #FFFFFF!important; cursor: pointer; font-family: "Open Sans","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Arial,Verdana,Tahoma,sans-serif; font-size: 14px; padding: 3px 30px;}
-.dlbtn-bak a:hover,.yanshibtn a:hover{background: none repeat scroll 0 0 #9B59B6; border: 0 none; border-radius: 2px; color: #FFFFFF; cursor: pointer; font-family: "Open Sans","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Arial,Verdana,Tahoma,sans-serif; font-size: 14px; margin: -4px 20px 0 0; padding: 3px 30px;}
 .hjdl{margin-bottom: 20px;width: auto;background: #E7E7E7;border-radius: 4px;}
 .hjdl p{margin:0px;padding:3px 15px;border-bottom: none;text-indent: 0;}
 .hjdl p span{padding:0 5px;}
