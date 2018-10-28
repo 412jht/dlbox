@@ -2,6 +2,7 @@
 WordPress plugin for creating a download info area in the bottom of a post. Modified from [aimer-dlbox](https://github.com/aimerforreimu/aimer-dlbox/).
 # What's New
 ----2018-10-27----<br>
+Added some base64 clouddrive images.
 Changed the original post UI.<br>
 Added source box in editor interface.<br>
 
